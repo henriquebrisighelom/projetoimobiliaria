@@ -1,0 +1,147 @@
+body {
+    margin: 0;
+    font-family: 'Tahoma';
+}
+/*estilos-globais*/
+.secao{
+    padding-bottom: 30px;
+    padding-top: 30px;
+    text-align: center;
+
+}
+.paragrafo{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: justify;
+    width: 980px;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+
+}
+.texto-destaque{
+    font-weight: bold;
+    
+}
+/*1 Seção*/
+.secao-topo{
+    background-color:#afddfb;
+
+}
+.secao-topo img{
+    width: 150px;
+}
+.paragrafo-topo{
+    margin-top: 15px;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+
+.link-topo{
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin: 0 10px;
+}
+/*2 Seção*/
+.secao-banner{
+    margin-top: 50px;
+    padding-top: 0;
+}
+/*3 Seção*/
+.secao-sobre h1{
+    margin-bottom: 5px;
+    color: #1d1d1d;
+}
+h2{
+    color: #1c81c0;
+    margin-top: 0;
+    font-weight: normal;
+}
+img{
+    width: 450px;
+}
+.texto-azul{
+    color: #1d80c1
+}
+/*4 Seção*/
+.secao-servico, .secao-contato{
+    background-color: #1d80c1;
+
+}
+.secao-corretores h3{
+    color: #1d80c1;
+    font-size:28px;
+    line-height: 42px;
+}
+h3{
+    color: #ffffff;
+    font-size:28px;
+    line-height: 42px;
+
+}
+ .paragrafo-servico{
+    color: #ffffff;
+    line-height:42px;
+    font-size:22px;
+    text-align: center;
+    width: 700px;
+    
+}
+.texto-amarelo{
+    color: #fff81b;
+}
+.lista-servicos{
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right:auto;
+    width: 135px;
+    margin-bottom:40px;
+}
+.item-lista-servicos{
+    color: #ffffff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+}
+
+.texto-azul .paragrafo-corretores{
+    color: #1d80c1
+}
+/*6 Seção*/
+.secao-contato{
+    background-color: #1d80c1;
+}
+.paragrafo-contato{
+    color: #ffffff;
+    padding: 15px;
+    background-color: #1d1d1d;
+    margin: 30px auto;
+    text-align: center;
+    
+}
+
+.lista-contato{
+    margin-top: 40px;
+    text-decoration: none;
+    margin-left: auto;
+    width: 210px;
+    margin-right: auto;
+    margin-bottom: 40px;
+    list-style: none;
+}
+.item-lista-contato{
+margin-top: 15px;
+text-align: center;
+font-size: 18px;
+}
+.link-contato{
+    background-color: #ffffff;
+    color: #1d80c1;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
